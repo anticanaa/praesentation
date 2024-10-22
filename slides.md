@@ -6,7 +6,7 @@ layout: intro
 
 # Vitepress
  
-Präsentation von **Ana und Kathi**
+*Präsentation von Ana und Kathi*
 
 ---
  
