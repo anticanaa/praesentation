@@ -7,21 +7,23 @@ layout: intro
 # Vitepress
  
 Präsentation von **Ana und Kathi**
- 
-
-
- 
 
 ---
  
 ## Was ist VitePress?
+
+<div v-click>
  
 - SSG
 - nimmt Ihren in Markdown geschriebenen Quellinhalt, wendet ein Design darauf an und generiert statische HTML-Seiten
  
+</div>
+
+<div v-click>
 
 ![Markdown](/images/markdown.png)
  
+ </div>
  
 ---
  
