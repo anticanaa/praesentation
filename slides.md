@@ -21,7 +21,15 @@ layout: intro
 
 <div v-click>
 
-![Markdown](/images/markdown.png)
+```
+# Projekt
+ 
+## Was ist ein Projekt?
+ 
+Ein Projekt ist ein Ereignis, das dazu dient, ein bestimmtes
+**Ergebnis** zu erzielen. Es wird also ein **klares Ziel** verfolgt.
+*Erfahrungen* aus dem Projekt sollen auf kommende Projekte **transferiert** werden.
+```
  
  </div>
  
@@ -40,7 +48,7 @@ layout: intro
  
 <div v-click>
  
-![Digitale Mitschrift](/images/digitale_mitschrift.png)
+![Digitale Mitschrift](/images/dokuimg.png)
  
 </div>
  
